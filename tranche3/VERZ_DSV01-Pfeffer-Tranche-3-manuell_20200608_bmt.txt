@@ -1,0 +1,283 @@
+000052180 655 7 L $$aFlugblatt$$2gnd
+000052847 655 7 L $$aFundstellenverzeichnis$$2gnd
+000061377 655 7 L $$aFundstellenverzeichnis$$2gnd
+000064703 655 7 L $$aEinblattdruck$$2gnd
+000112024 655 7 L $$aFlugblatt$$2gnd
+000112025 655 7 L $$aFlugblatt$$2gnd
+000133815 655 7 L $$aFormularsammlung$$2gnd
+000206099 655 7 L $$aFlugblatt$$2gnd
+000219493 655 7 L $$aFundstellenverzeichnis$$2gnd
+000223981 655 7 L $$aFlugblatt$$2gnd
+000226342 655 7 L $$aDiagramm$$2gnd
+000232129 655 7 L $$aEinblattdruck$$2gnd
+000232129 655 7 L $$aFlugblatt$$2gnd
+000276945 655 7 L $$aDiagramm$$2gnd
+000277757 655 7 L $$aFlugblatt$$2gnd
+000292347 655 7 L $$aFlugblatt$$2gnd
+000305064 655 7 L $$aTafel$$2gnd
+000343357 655 7 L $$aFormularsammlung$$2gnd
+000385382 655 7 L $$aFilm Super-8$$2gnd
+000409615 655 7 L $$aEinblattdruck$$2gnd
+000425676 655 7 L $$aEinblattdruck$$2gnd
+000471600 655 7 L $$aTafel$$2gnd
+000514176 655 7 L $$aBildwörterbuch$$2gnd
+000517122 655 7 L $$aNeuerwerbungsliste$$2gnd
+000525124 655 7 L $$aDiagramm$$2gnd
+000554199 655 7 L $$aPredigthilfe$$2gnd
+000565632 655 7 L $$aTafel$$2gnd
+000628947 655 7 L $$aNeuerwerbungsliste$$2gnd
+000629746 655 7 L $$aElektronische Publikation$$2gnd
+000663992 655 7 L $$aTafel$$2gnd
+000666238 655 7 L $$aFormularsammlung$$2gnd
+000691661 655 7 L $$aFormularsammlung$$2gnd
+000697748 655 7 L $$aNeuerwerbungsliste$$2gnd
+000702328 655 7 L $$aFormularsammlung$$2gnd
+000707685 655 7 L $$aSachbilderbuch$$2gnd
+000723617 655 7 L $$aFlugblatt$$2gnd
+000737212 655 7 L $$aTafel$$2gnd
+000772499 655 7 L $$aBildwörterbuch$$2gnd
+000825021 655 7 L $$aDia$$2gnd
+001050384 655 7 L $$aFormularsammlung$$2gnd
+001090189 655 7 L $$aTafel$$2gnd
+001100931 655 7 L $$aPredigthilfe$$2gnd
+001110698 655 7 L $$aPredigthilfe$$2gnd
+001165335 655 7 L $$aDiagramm$$2gnd
+001165427 655 7 L $$aSchriftenreihe$$2gnd
+001207873 655 7 L $$aEinblattdruck$$2gnd
+001222274 655 7 L $$aNeuerwerbungsliste$$2gnd
+001301071 655 7 L $$aArbeitstransparent$$2gnd
+001329013 655 7 L $$aElektronische Publikation$$2gnd
+001375836 655 7 L $$aCheckliste$$2gnd
+001405633 655 7 L $$aDiagramm$$2gnd
+001425524 655 7 L $$aArbeitstransparent$$2gnd
+001426676 655 7 L $$aElektronische Publikation$$2gnd
+001466262 655 7 L $$aFormularsammlung$$2gnd
+001591499 655 7 L $$aCheckliste$$2gnd
+001650344 655 7 L $$aSachbilderbuch$$2gnd
+002007166 655 7 L $$aTafel$$2gnd
+002041074 655 7 L $$aArbeitstransparent$$2gnd
+002041515 655 7 L $$aHörspiel$$2gnd
+002207369 655 7 L $$aFlugblatt$$2gnd
+002225605 655 7 L $$aTafel$$2gnd
+002295034 655 7 L $$aElektronische Publikation$$2gnd
+002384000 655 7 L $$aFlugblatt$$2gnd
+002387061 655 7 L $$aArbeitstransparent$$2gnd
+002447610 655 7 L $$aFlugblatt$$2gnd
+002470237 655 7 L $$aEinblattdruck$$2gnd
+002488857 655 7 L $$aSachbilderbuch$$2gnd
+002489430 655 7 L $$aDia$$2gnd
+002506343 655 7 L $$aEinblattdruck$$2gnd
+002519270 655 7 L $$aFormularsammlung$$2gnd
+002551274 655 7 L $$aTafel$$2gnd
+002576464 655 7 L $$aTafel$$2gnd
+002583224 655 7 L $$aTafel$$2gnd
+002595571 655 7 L $$aEinblattdruck$$2gnd
+002635215 655 7 L $$aSachbilderbuch$$2gnd
+002654023 655 7 L $$aEinblattdruck$$2gnd
+002670464 655 7 L $$aTafel$$2gnd
+002679036 655 7 L $$aDiagramm$$2gnd
+002685339 655 7 L $$aTafel$$2gnd
+002728028 655 7 L $$aSachbilderbuch$$2gnd
+002732833 655 7 L $$aSachbilderbuch$$2gnd
+002739961 655 7 L $$aArbeitstransparent$$2gnd
+002788752 655 7 L $$aArbeitstransparent$$2gnd
+002806218 655 7 L $$aTafel$$2gnd
+002859462 655 7 L $$aElektronische Publikation$$2gnd
+002887496 655 7 L $$aFlugblatt$$2gnd
+002975390 655 7 L $$aBildwörterbuch$$2gnd
+003031691 655 7 L $$aFilm 16 mm$$2gnd
+003075168 655 7 L $$aTafel$$2gnd
+003134737 655 7 L $$aEinblattdruck$$2gnd
+003200526 655 7 L $$aElektronische Publikation$$2gnd
+003234696 655 7 L $$aTafel$$2gnd
+003241344 655 7 L $$aSachbilderbuch$$2gnd
+003281041 655 7 L $$aSachbilderbuch$$2gnd
+003298731 655 7 L $$aSachbilderbuch$$2gnd
+003303943 655 7 L $$aEinblattdruck$$2gnd
+003339728 655 7 L $$aDia$$2gnd
+003357505 655 7 L $$aFormularsammlung$$2gnd
+003358068 655 7 L $$aFormularsammlung$$2gnd
+003434144 655 7 L $$aFormularsammlung$$2gnd
+003452017 655 7 L $$aElektronische Publikation$$2gnd
+003565065 655 7 L $$aPredigthilfe$$2gnd
+003645305 655 7 L $$aFlugblatt$$2gnd
+003713283 655 7 L $$aDiagramm$$2gnd
+003725937 655 7 L $$aElektronische Publikation$$2gnd
+003791949 655 7 L $$aFormularsammlung$$2gnd
+003823864 655 7 L $$aElektronische Publikation$$2gnd
+003950407 655 7 L $$aFilm 16 mm$$2gnd
+003958779 655 7 L $$aSachbilderbuch$$2gnd
+003973708 655 7 L $$aNeuerwerbungsliste$$2gnd
+003990861 655 7 L $$aBildwörterbuch$$2gnd
+004003456 655 7 L $$aPredigthilfe$$2gnd
+004038557 655 7 L $$aBildwörterbuch$$2gnd
+004127202 655 7 L $$aBildwörterbuch$$2gnd
+004142011 655 7 L $$aNeuerwerbungsliste$$2gnd
+004151789 655 7 L $$aNeuerwerbungsliste$$2gnd
+004170390 655 7 L $$aSachbilderbuch$$2gnd
+004185095 655 7 L $$aDiagramm$$2gnd
+004200347 655 7 L $$aTafel$$2gnd
+004220227 655 7 L $$aFilm 16 mm$$2gnd
+004225758 655 7 L $$aFilm 16 mm$$2gnd
+004234497 655 7 L $$aNeuerwerbungsliste$$2gnd
+004254784 655 7 L $$aPredigthilfe$$2gnd
+004290269 655 7 L $$aNeuerwerbungsliste$$2gnd
+004311861 655 7 L $$aFormularsammlung$$2gnd
+004421622 655 7 L $$aArbeitstransparent$$2gnd
+004422661 655 7 L $$aArbeitstransparent$$2gnd
+004430515 655 7 L $$aElektronische Publikation$$2gnd
+004518756 655 7 L $$aArbeitstransparent$$2gnd
+004530363 655 7 L $$aNeuerwerbungsliste$$2gnd
+004536943 655 7 L $$aNeuerwerbungsliste$$2gnd
+004566110 655 7 L $$aEinblattdruck$$2gnd
+004569931 655 7 L $$aEinblattdruck$$2gnd
+004582129 655 7 L $$aSachbilderbuch$$2gnd
+004673318 655 7 L $$aTafel$$2gnd
+004695721 655 7 L $$aEinblattdruck$$2gnd
+004695729 655 7 L $$aEinblattdruck$$2gnd
+004695735 655 7 L $$aEinblattdruck$$2gnd
+004702711 655 7 L $$aHörspiel$$2gnd
+004718053 655 7 L $$aEinblattdruck$$2gnd
+004718797 655 7 L $$aEinblattdruck$$2gnd
+004761329 655 7 L $$aDia$$2gnd
+004761502 655 7 L $$aDia$$2gnd
+004761514 655 7 L $$aDia$$2gnd
+004761547 655 7 L $$aDia$$2gnd
+004761698 655 7 L $$aDiagramm$$2gnd
+004761780 655 7 L $$aDia$$2gnd
+004763037 655 7 L $$aDia$$2gnd
+004775178 655 7 L $$aPredigthilfe$$2gnd
+004777605 655 7 L $$aSachbilderbuch$$2gnd
+004792310 655 7 L $$aBildwörterbuch$$2gnd
+004792342 655 7 L $$aBildwörterbuch$$2gnd
+004792372 655 7 L $$aBildwörterbuch$$2gnd
+004792378 655 7 L $$aBildwörterbuch$$2gnd
+004793337 655 7 L $$aBildwörterbuch$$2gnd
+004835287 655 7 L $$aSachbilderbuch$$2gnd
+004868046 655 7 L $$aBildwörterbuch$$2gnd
+005330502 655 7 L $$aDiagramm$$2gnd
+005371442 655 7 L $$aBooksellers' advertisements$$zDelaware$$zWilmington$$2rbgenr
+005371809 655 7 L $$aHymns$$2rbgenr
+005371810 655 7 L $$aHymns$$2rbgenr
+005371811 655 7 L $$aBooksellers' advertisements$$zPennsylvania$$zPhiladelphia$$2rbgenr
+005372042 655 7 L $$aErotica$$2rbgenr
+005372241 655 7 L $$aBooksellers' advertisements$$zPennsylvania$$zPhiladelphia$$2rbgenr
+005372241 655 7 L $$aJuvenile literature$$y1787$$2rbgenr
+005372241 655 7 L $$aPlays$$y1787$$2rbgenr
+005372377 655 7 L $$aBooksellers' catalogs$$zMassachusetts$$zBoston$$2rbgenr
+005372378 655 7 L $$aBooksellers' advertisements$$zMassachusetts$$zBoston$$2rbgenr
+005372387 655 7 L $$aBooksellers' advertisements$$zMassachusetts$$zBoston$$2rbgenr
+005372549 655 7 L $$aCatechisms$$2rbgenr
+005373062 655 7 L $$aPoems$$y1742$$2rbgenr
+005373076 655 7 L $$aAnthologies$$2rbgenr
+005373076 655 7 L $$aJuvenile literature$$y1795$$2rbgenr
+005373077 655 7 L $$aAnthologies$$2rbgenr
+005373077 655 7 L $$aJuvenile literature$$y1799$$2rbgenr
+005373078 655 7 L $$aDialogues$$2rbgenr
+005373078 655 7 L $$aPoems$$y1789$$2rbgenr
+005373079 655 7 L $$aDialogues$$2rbgenr
+005373079 655 7 L $$aPoems$$y1790$$2rbgenr
+005373080 655 7 L $$aDialogues$$2rbgenr
+005373080 655 7 L $$aPoems$$y1793$$2rbgenr
+005373081 655 7 L $$aDialogues$$2rbgenr
+005373082 655 7 L $$aDialogues$$2rbgenr
+005373082 655 7 L $$aPoems$$y1798$$2rbgenr
+005373226 655 7 L $$aPoems$$y1776$$2rbgenr
+005373227 655 7 L $$aPoems$$y1776$$2rbgenr
+005373356 655 7 L $$aBooksellers' advertisements$$zNew York (State)$$zNew York$$2rbgenr
+005373403 655 7 L $$aJuvenile literature$$y1797$$2rbgenr
+005373438 655 7 L $$aBooksellers' advertisements$$zMassachusetts$$zBoston$$2rbgenr
+005373438 655 7 L $$aJuvenile literature$$y1794$$2rbgenr
+005373470 655 7 L $$aBooksellers' advertisements$$zPennsylvania$$zPhiladelphia$$2rbgenr
+005373573 655 7 L $$aGrammars$$2rbgenr
+005373777 655 7 L $$aBooksellers' advertisements$$zPennsylvania$$zPhiladelphia$$2rbgenr
+005373802 655 7 L $$aBooksellers' advertisements$$zPennsylvania$$zPhiladelphia$$2rbgenr
+005374320 655 7 L $$aPrayers$$2rbgenr
+005374459 655 7 L $$aPoems$$y1787$$2rbgenr
+005374602 655 7 L $$aJuvenile literature$$y1794$$2rbgenr
+005374730 655 7 L $$aBooksellers' advertisements$$zConnecticut$$zHartford$$2rbgenr
+005374733 655 7 L $$aBooksellers' advertisements$$zNew York (State)$$zAlbany$$2rbgenr
+005374742 655 7 L $$aJuvenile literature$$y1798$$2rbgenr
+005374796 655 7 L $$aBooksellers' advertisements$$zMassachusetts$$zBoston$$2rbgenr
+005374796 655 7 L $$aBooksellers' advertisements$$zMassachusetts$$zNewburyport$$2rbgenr
+005374849 655 7 L $$aPoems$$y1762$$2rbgenr
+005375127 655 7 L $$aBooksellers' advertisements$$zMassachusetts$$zBoston$$2rbgenr
+005375301 655 7 L $$aHymns$$2rbgenr
+005375414 655 7 L $$aAdvertisements$$xPaper-making and trade$$2rbgenr
+005375589 655 7 L $$aAnthologies$$2rbgenr
+005375589 655 7 L $$aJuvenile literature$$y1798$$2rbgenr
+005375590 655 7 L $$aDialogues$$2rbgenr
+005375608 655 7 L $$aBooksellers' advertisements$$zMassachusetts$$zBoston$$2rbgenr
+005375708 655 7 L $$aBooksellers' advertisements$$zNew York (State)$$zAlbany$$2rbgenr
+005375823 655 7 L $$aBooksellers' advertisements$$zPennsylvania$$zPhiladelphia$$2rbgenr
+005375835 655 7 L $$aDictionaries$$2rbgenr
+005375967 655 7 L $$aDialogues$$2rbgenr
+005375967 655 7 L $$aPoems$$y1793$$2rbgenr
+005376548 655 7 L $$aHymnals$$2rbgenr
+005376548 655 7 L $$aLiturgical books$$2rbgenr
+005376548 655 7 L $$aPrayer books$$2rbgenr
+005376583 655 7 L $$aBooksellers' advertisements$$zPennsylvania$$zPhiladelphia$$2rbgenr
+005376612 655 7 L $$aAdvertisements$$xBookbinding$$2rbgenr
+005376612 655 7 L $$aAdvertisements$$xPrinting machinery and supplies$$2rbgenr
+005376612 655 7 L $$aAdvertisements$$xStationery$$2rbgenr
+005376612 655 7 L $$aBooksellers' advertisements$$zMassachusetts$$zBoston$$2rbgenr
+005376630 655 7 L $$aAnthologies$$2rbgenr
+005376630 655 7 L $$aBooksellers' advertisements$$zMassachusetts$$zBoston$$2rbgenr
+005376630 655 7 L $$aJuvenile literature$$y1795$$2rbgenr
+005376631 655 7 L $$aBooksellers' advertisements$$zMassachusetts$$zBoston$$2rbgenr
+005376631 655 7 L $$aJuvenile literature$$y1790$$2rbgenr
+005376671 655 7 L $$aBooksellers' advertisements$$zPennsylvania$$zPhiladelphia$$2rbgenr
+005376753 655 7 L $$aBooksellers' advertisements$$zMassachusetts$$zBoston$$2rbgenr
+005376817 655 7 L $$aBooksellers' advertisements$$zPennsylvania$$zPhiladelphia$$2rbgenr
+005376923 655 7 L $$aBooksellers' advertisements$$zPennsylvania$$zPhiladelphia$$2rbgenr
+005376924 655 7 L $$aBooksellers' advertisements$$zPennsylvania$$zPhiladelphia$$2rbgenr
+005376953 655 7 L $$aBooksellers' catalogs$$zMassachusetts$$zBoston$$2rbgenr
+005377025 655 7 L $$aBooksellers' advertisements$$zMassachusetts$$zBoston$$2rbgenr
+005377025 655 7 L $$aBurlesques$$2rbgenr
+005377050 655 7 L $$aBooksellers' advertisements$$zNew York (State)$$zNew York$$2rbgenr
+005377698 655 7 L $$aBooksellers' advertisements$$zPennsylvania$$zPhiladelphia$$2rbgenr
+005377851 655 7 L $$aBooksellers' advertisements$$zMassachusetts$$zBoston$$2rbgenr
+005378183 655 7 L $$aBooksellers' advertisements$$zMassachusetts$$zBoston$$2rbgenr
+005378183 655 7 L $$aFables$$y1773$$2rbgenr
+005378183 655 7 L $$aPoems$$y1773$$2rbgenr
+005378183 655 7 L $$aPrayers$$2rbgenr
+005378243 655 7 L $$aBooksellers' advertisements$$zNew York (State)$$zNew York$$2rbgenr
+005395793 655 7 L $$aFeature films$$2lcsh
+005461296 655 7 L $$aEtiquette books$$zEngland$$y18th century$$2rbgenr
+005482272 655 7 L $$aPoems$$2rbgenr
+005490401 655 7 L $$aLibretti$$2rbgenr
+005490949 655 7 L $$aPoems$$2rbgenr
+005545973 655 7 L $$aPoems$$2rbgenr
+005547296 655 7 L $$aFiction$$2rbgenr
+005547296 655 7 L $$aPoems$$y1799$$2rbgenr
+005621804 655 7 L $$aFilm 35 mm$$2gnd
+005626961 655 7 L $$aBildwörterbuch$$2gnd
+005627287 655 7 L $$aFormularsammlung$$2gnd
+005635233 655 7 L $$aBildwörterbuch$$2gnd
+005638033 655 7 L $$aFormularsammlung$$2gnd
+005644999 655 7 L $$aElektronische Publikation$$2gnd
+005665519 655 7 L $$aLibrettos$$zItaly$$zVenice$$y1838$$2lcsh
+005677396 655 7 L $$aElektronische Publikation$$2gnd
+005699945 655 7 L $$aFiction films$$2lcgft
+005703249 655 7 L $$aFormularsammlung$$2gnd
+005835826 655 7 L $$aFormularsammlung$$2gnd
+005873752 655 7 L $$aDiagramm$$2gnd
+005876562 655 7 L $$aSachbilderbuch$$2gnd
+005879314 655 7 L $$aFahrplan$$2gnd
+005962379 655 7 L $$aBildwörterbuch$$2gnd
+005989440 655 7 L $$aSachbilderbuch$$2gnd
+005995284 655 7 L $$aElektronische Publikation$$2gnd
+006014896 655 7 L $$aFormularsammlung$$2gnd
+006030806 655 7 L $$aFilm 16 mm$$2gnd
+006036948 655 7 L $$aElektronische Publikation$$2gnd
+006152281 655 7 L $$aElectronic books$$2local
+006182618 655 7 L $$aFiction television programs$$2lcgft
+006182732 655 7 L $$aFiction television programs$$2lcgft
+006182732 655 7 L $$aHistorical television programs$$2lcgft
+006182734 655 7 L $$aFiction films$$2lcgft
+006183445 655 7 L $$aPredigthilfe$$2gnd
+006223714 655 7 L $$aElektronische Publikation$$2gnd
+006267780 655 7 L $$aDirectories$$2fast
+006267808 655 7 L $$aDirectories$$2fast
+006274181 655 7 L $$aFilm Super-8$$2gnd
+006276935 655 7 L $$aFormularsammlung$$2gnd
